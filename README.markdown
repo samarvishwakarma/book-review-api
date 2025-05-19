@@ -10,7 +10,7 @@ A RESTful API for managing books and reviews with JWT authentication.
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/samarvishwakarma/book-review-api.git](https://github.com/samarvishwakarma/book-review-api.git)
+   git clone https://github.com/samarvishwakarma/book-review-api.git
    cd book-review-api
    ```
 2. Install dependencies:
